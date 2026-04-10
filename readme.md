@@ -10,17 +10,4 @@
 </div>
 
 
-<a href="https://example.com" style="
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  padding: 14px 32px;
-  background: #4f46e5;
-  color: white;
-  font-size: 18px;
-  font-weight: bold;
-  border-radius: 10px;
-  text-decoration: none;
-">
-  التالي →
-</a>
+[![التالي](https://img.shields.io/badge/التالي-→-4f46e5?style=for-the-badge)](https://example.com)
