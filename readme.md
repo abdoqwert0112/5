@@ -11,4 +11,8 @@
 
 
 [![Previous](https://img.shields.io/badge/◀_Previous-grey?style=for-the-badge)](https://your-prev-link.com)
+[![1](https://img.shields.io/badge/1-blue?style=for-the-badge)](https://link1.com)
+[![2](https://img.shields.io/badge/2-blue?style=for-the-badge)](https://link2.com)
+[![3](https://img.shields.io/badge/3-blue?style=for-the-badge)](https://link3.com)
+[![...](https://img.shields.io/badge/...-grey?style=for-the-badge)](https://link-more.com)
 [![Next](https://img.shields.io/badge/Next_▶-blue?style=for-the-badge)](https://your-next-link.com)
