@@ -5,4 +5,4 @@
 
 
 
-![Navigation](nav.svg)
+[![Previous](https://img.shields.io/badge/◀%20Previous-grey?style=for-the-badge)](https://prev-link.com) ![dots](https://img.shields.io/badge/•••-white?style=for-the-badge) [![Next](https://img.shields.io/badge/Next%20▶-blue?style=for-the-badge)](https://next-link.com)
