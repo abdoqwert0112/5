@@ -8,4 +8,4 @@
 
 
 
-[![Previous](https://img.shields.io/badge/◀%20Previous-grey?style=for-the-badge)]() ![dots](https://img.shields.io/badge/•••-white?style=for-the-badge) [![Next](https://img.shields.io/badge/Next%20▶-blue?style=for-the-badge)](https://community.toolzo.online/index.php?threads/888sfds.47/)
+[![Previous](https://img.shields.io/badge/◀%20Previous-grey?style=for-the-badge)](#) ![dots](https://img.shields.io/badge/•••-white?style=for-the-badge) [![Next](https://img.shields.io/badge/Next%20▶-blue?style=for-the-badge)](https://community.toolzo.online/index.php?threads/888sfds.47/)
