@@ -10,4 +10,5 @@
 </div>
 
 
-[![التالي](https://img.shields.io/badge/التالي-→-4f46e5?style=for-the-badge)](https://example.com)
+[![Previous](https://img.shields.io/badge/◀_Previous-grey?style=for-the-badge)](https://your-prev-link.com)
+[![Next](https://img.shields.io/badge/Next_▶-blue?style=for-the-badge)](https://your-next-link.com)
