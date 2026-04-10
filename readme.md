@@ -8,3 +8,19 @@
     <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi1thijSueQjMJBnTceLFiN9YAaSN-FUTnFzBRDa23-RFbXHcbLmMNdI9E6pxN_gG-5LuR-B7yC1MhlY_007oK7zhxv0U0DSRGDq4skCTmsXjTdWYowshyUYRCVSNJUmiea2FynTm36LY89wNwWL6zPLSad2E_sArJoRooy4x6JE35ee5f0mDCbRmjsvOln" alt="Continue Reading" width="300"/>
   </a>
 </div>
+
+
+<a href="https://example.com" style="
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 32px;
+  background: #4f46e5;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 10px;
+  text-decoration: none;
+">
+  التالي →
+</a>
